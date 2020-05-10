@@ -1,4 +1,4 @@
-# encrypt-password
+# encrypt-data
 Spring Boot: how to encrypt/decrypt data using a RSA key pair 
 ## Generate key files using openssl
 1. key pair
